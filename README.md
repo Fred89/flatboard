@@ -3,7 +3,7 @@ FlatBoard   [![Join the chat at https://gitter.im/Fred89/flatboard](https://badg
 
 Fast and lightweight bulletin board, Json powered.
 We're just getting started, so if you have any questions, comments, bugs to report or enhancements that should be implemented, please do feel free to post those here on GitHub.
-http://flatboard.co.nf
+Online demo/support: http://flatboard.co.nf
 
 ## Getting Started
 - [Installation](#installation)
