@@ -1,4 +1,4 @@
-FlatBoard   [![Join the chat at https://gitter.im/Fred89/flatboard](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Fred89/flatboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Flatboard   [![Join the chat at https://gitter.im/Fred89/flatboard](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Fred89/flatboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ===================
 
 Fast and lightweight bulletin board, Json powered.
@@ -10,14 +10,14 @@ Online demo/support: http://flatboard.co.nf
 - [License](#license)
 
 ## Installation
-1. Download the latest version of FlatBoard [here on GitHub](https://github.com/Fred89/flatboard/archive/master.zip).
-2. Extract "flatboard-master.zip", then upload "FlatBoard" to your web server wherever you would like FlatBoard to be installed. 
-3. Within your browser of choice, load **yourwebsite.com/flatboard/** and follow the prompts to install FlatBoard.
+1. Download the latest version of Flatboard [here on GitHub](https://github.com/Fred89/flatboard/archive/master.zip).
+2. Extract "flatboard-master.zip", then upload "Flatboard" to your web server wherever you would like Flatboard to be installed. 
+3. Within your browser of choice, load **yourwebsite.com/flatboard/** and follow the prompts to install Flatboard.
 
 ## License
 The MIT License (MIT)  
   
-Copyright (c) 2015 FlatBoard  
+Copyright (c) 2015-2016 Flatboard  
   
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
