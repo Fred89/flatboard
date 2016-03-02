@@ -3,14 +3,14 @@ Flatboard   [![Join the chat at https://gitter.im/Fred89/flatboard](https://badg
 
 Fast and lightweight bulletin board, Json powered.
 We're just getting started, so if you have any questions, comments, bugs to report or enhancements that should be implemented, please do feel free to post those here on GitHub.  
-Online demo/support: http://flatboard.co.nf
+Online demo/support: http://flatboard.free.fr
 
 ## Getting Started
 - [Installation](#installation)
 - [License](#license)
 
 ## Installation
-1. Download the latest version of Flatboard [here on GitHub](https://github.com/Fred89/flatboard/archive/master.zip).
+1. Download the [latest Flatboard](http://flatboard.free.fr/uploads/flatboard.7z) version.
 2. Extract "flatboard-master.zip", then upload "Flatboard" to your web server wherever you would like Flatboard to be installed. 
 3. Within your browser of choice, load **yourwebsite.com/flatboard/** and follow the prompts to install Flatboard.
 
