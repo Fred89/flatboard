@@ -10,7 +10,7 @@ Online demo/support: http://flatboard.free.fr
 - [License](#license)
 
 ## Installation
-1. Download the [latest Flatboard](http://flatboard.free.fr/uploads/flatboard.7z) version.
+1. Download the [latest Flatboard](http://flatboard.free.fr/download.php?file=flatboard_latest.7z) version.
 2. Extract "flatboard-master.zip", then upload "Flatboard" to your web server wherever you would like Flatboard to be installed. 
 3. Within your browser of choice, load **yourwebsite.com/flatboard/** and follow the prompts to install Flatboard.
 
