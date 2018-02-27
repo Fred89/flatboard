@@ -19,7 +19,7 @@ Online demo/support: http://flatboard.free.fr
 ## License
 The MIT License (MIT)  
   
-Copyright (c) 2015-2016 Flatboard  
+Copyright (c) 2015-2018 Flatboard  
   
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
