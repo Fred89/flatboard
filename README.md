@@ -1,4 +1,4 @@
-Flatboard [![Flatboard](https://img.shields.io/badge/Flatboard-2.0-blue.svg)](http://flatboard.free.fr) [![Join the chat at https://gitter.im/Fred89/flatboard](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Fred89/flatboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Flatboard [![Flatboard](https://img.shields.io/badge/Flatboard-2.1-blue.svg)](http://flatboard.free.fr) [![Join the chat at https://gitter.im/Fred89/flatboard](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Fred89/flatboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ===================
 
 Fast and lightweight flat-file forum software, Json powered.
