@@ -1,3 +1,5 @@
+![preview](./preview.png)
+
 Flatboard [![Flatboard](https://img.shields.io/badge/version-2.3-blue.svg)](http://flatboard.free.fr) [![Join the chat at https://gitter.im/Fred89/flatboard](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Fred89/flatboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ===================
 
@@ -8,6 +10,21 @@ Online demo/support: http://flatboard.free.fr
 ## Getting Started
 - [Installation](#installation)
 - [License](#license)
+
+## REQUIREMENTS
+
+#### System requirements
+Make sure your server meets the following requirements.
+
+- Webserver (Apache with Mod Rewrite)
+- PHP 5.6 or higher
+
+#### PHP extensions
+Flatboard needs the following PHP extensions to be enabled:
+
+- PHP [mbstring](http://php.net/manual/en/book.mbstring.php) module for full UTF-8 support.
+- PHP [gd](http://php.net/manual/en/book.image.php) module for image processing.
+- PHP [json](https://php.net/manual/en/book.json.php) module for JSON manipulation.
 
 ## Installation
 1. Download the latest version from [flatboard.free.fr](http://flatboard.free.fr/download.php?file=flatboard_latest.zip)
