@@ -16,7 +16,7 @@ Online demo/support: http://flatboard.free.fr
 #### System requirements
 Make sure your server meets the following requirements.
 
-- Webserver (Apache with Mod Rewrite)
+- Webserver (Apache)
 - PHP 5.6 or higher
 
 #### PHP extensions
