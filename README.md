@@ -16,15 +16,15 @@ Online demo/support: https://flatboard.org
 #### System requirements
 Make sure your server meets the following requirements.
 
-- Webserver (Apache)
-- PHP 5.6 or higher
+- [x] Webserver (Apache)
+- [x] PHP 7 or higher
 
 #### PHP extensions
 Flatboard needs the following PHP extensions to be enabled:
 
-- PHP [mbstring](http://php.net/manual/en/book.mbstring.php) module for full UTF-8 support.
-- PHP [gd](http://php.net/manual/en/book.image.php) module for image processing.
-- PHP [json](https://php.net/manual/en/book.json.php) module for JSON manipulation.
+- [x] PHP [mbstring](http://php.net/manual/en/book.mbstring.php) module for full UTF-8 support.
+- [x] PHP [gd](http://php.net/manual/en/book.image.php) module for image processing.
+- [x] PHP [json](https://php.net/manual/en/book.json.php) module for JSON manipulation.
 
 ## Installation
 1. Download the latest version from [flatboard.org](https://flatboard.org/download.php?file=flatboard_latest.zip)
