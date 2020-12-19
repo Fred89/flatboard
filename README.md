@@ -1,6 +1,6 @@
 ![preview](./preview.png)
 
-Flatboard [![Flatboard](https://img.shields.io/badge/version-2.5-red.svg)](https://flatboard.org) [![Join the chat at https://gitter.im/Fred89/flatboard](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Fred89/flatboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Flatboard [![Flatboard](https://img.shields.io/badge/version-3.Beta-red.svg)](https://flatboard.org) [![Join the chat at https://gitter.im/Fred89/flatboard](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Fred89/flatboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ===================
 
 Fast and lightweight flat-file forum software, Json powered.
@@ -34,4 +34,4 @@ Flatboard needs the following PHP extensions to be enabled:
 5. Follow the Flatboard Unpack & the Installer to configure your website.
 
 ## License
-[The MIT License (MIT)](https://github.com/Fred89/flatboard/blob/master/LICENSE) Copyright (c) 2015-2020 Frédéric Kaplon.
+[The MIT License (MIT)](https://github.com/Fred89/flatboard/blob/master/LICENSE) Copyright (c) 2015-2021 Frédéric Kaplon.
