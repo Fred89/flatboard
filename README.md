@@ -35,4 +35,4 @@ Flatboard needs the following PHP extensions to be enabled:
 5. Follow the Flatboard Unpack & the Installer to configure your website.
 
 ## License
-[The MIT License (MIT)](https://github.com/Fred89/flatboard/blob/master/LICENSE) Copyright (c) 2015-2021 Frédéric Kaplon.
+[The MIT License (MIT)](https://github.com/Fred89/flatboard/blob/master/LICENSE) Copyright (c) 2015-2022 Frédéric Kaplon.
