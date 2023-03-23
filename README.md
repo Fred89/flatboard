@@ -7,7 +7,7 @@ Flatboard [![Flatboard](https://img.shields.io/badge/version-3.1-red.svg)](https
 Fast and lightweight flat-file forum software, Json powered.
 We're just getting started, so if you have any questions, comments, bugs to report or enhancements that should be implemented, please do feel free to post those here on GitHub.  
 Online demo/support: https://flatboard.org
-
+ 
 ## Getting Started
 - [Installation](#installation)
 - [License](#license)
