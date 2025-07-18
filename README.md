@@ -17,7 +17,7 @@ Online demo/support: https://flatboard.org
 #### System requirements
 Make sure your server meets the following requirements.
 
-- [x] Webserver (Apache)
+- [x] Webserver (Apache 2.4)
 - [x] PHP 8.4 or higher
 
 #### PHP extensions
